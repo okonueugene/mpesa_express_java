@@ -33,11 +33,7 @@ This is a Java Spring Boot application that provides RESTful API endpoints for i
 
 Using Postman, send a POST request with parameters phoneNumber and amount to the following endpoint:
 
-    ```bash
-
     http://localhost:8080/api/v1/mpesa/stkpush
-
-    ```
 
 The response should be:
 
