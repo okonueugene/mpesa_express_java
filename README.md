@@ -51,7 +51,7 @@ The response should be:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-### Reference Documentation
+## Reference Documentation
 
 For further reference, please consider the following sections:
 
@@ -61,7 +61,7 @@ For further reference, please consider the following sections:
 - [Spring Web](https://docs.spring.io/spring-boot/docs/3.1.5/reference/htmlsingle/index.html#web)
 - [Spring Data JPA](https://docs.spring.io/spring-boot/docs/3.1.5/reference/htmlsingle/index.html#data.sql.jpa-and-spring-data)
 
-### Guides
+## Guides
 
 The following guides illustrate how to use some features concretely:
 
