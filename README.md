@@ -7,7 +7,7 @@ This is a Java Spring Boot application that provides RESTful API endpoints for i
 - Java JDK (version 8 or later)
 - Maven
 - Spring Boot
--
+- Spring Data JPA
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ This is a Java Spring Boot application that provides RESTful API endpoints for i
 
 Using Postman, send a POST request with parameters phoneNumber and amount to the following endpoint:
 
-    http://localhost:8080/api/v1/mpesa/stkpush
+    http://localhost:8080/api/v1/mpesa/stkPush?phoneNumber=2547XXXXXXXX&amount=XXX
 
 The response should be:
 
